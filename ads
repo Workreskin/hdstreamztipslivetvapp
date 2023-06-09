@@ -1,5 +1,3 @@
-com.hdstreamztipslivetvapp.BoubkerAsDev
-
 {
   "ADS": {
 
